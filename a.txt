@@ -6,3 +6,8 @@ Create a new brach is quick AND simple.
 test reset!
 
 zhang
+fixed bug!
+
+done!
+
+fix the error!
