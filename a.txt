@@ -5,3 +5,5 @@ Create a new brach is quick AND simple.
 
 qqqq
 222
+git stash-1
+change to amend
